@@ -7,7 +7,7 @@
 1. A partir de la tabla de genes realiza el análisis de expresión diferencial en R usando EDGER o DESEQ2 
 
 
-2. A partir de los archivos fastq, realiza la asignación taxónomica, obten las curvas de rarefacción.
+2. A partir de los archivos fastq, realiza la asignación taxónomica, obten las curvas de rarefacción y los krona.
 Se puede seguir el siguiente tutoral
 
 https://training.galaxyproject.org/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html
