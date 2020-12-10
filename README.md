@@ -14,6 +14,16 @@ https://training.galaxyproject.org/training-material/topics/metagenomics/tutoria
 
 
 
-3. Realiza el modelo de la estructura terciaria http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index y visualiza en Chimera 
+3. Realiza el modelo de la estructura terciaria http://www.sbg.bio.ic.ac.uk/~phyre2/html/page.cgi?id=index, indica a que organismos pertence y visualiza en Chimera 
+
+
+                     MSDNGPQNQRNAPRITFGGPSDSTGSNQNGERSGARSKQRRPQG
+                     LPNNTASWFTALTQHGKEDLKFPRGQGVPINTNSSPDDQIGYYRRATRRIRGGDGKMK
+                     DLSPRWYFYYLGTGPEAGLPYGANKDGIIWVATEGALNTPKDHIGTRNPANNAAIVLQ
+                     LPQGTTLPKGFYAEGSRGGSQASSRSSSRSRNSSRNSTPGSSRGTSPARMAGNGGDAA
+                     LALLLLDRLNQLESKMSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKAYNVTQAFGR
+                     RGPEQTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYT
+                     GAIKLDDKDPNFKDQVILLNKHIDAYKTFPPTEPKKDKKKKADETQALPQRQKKQQTV
+                     TLLPAADLDDFSKQLQQSMSSADSTQA
                 
                 
